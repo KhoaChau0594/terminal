@@ -25,8 +25,3 @@ git bash now is support window terminal profile
         "brightWhite": "#FFFFFF",
         "brightYellow": "#FFFFA5"
     }
-
-# fix git bash flick in Window Terminal
-Go to git folder : cd C:\Program Files\Git
-code ~/.inputrc 
-set bell-style none
